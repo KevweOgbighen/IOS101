@@ -2,9 +2,9 @@
 
 Submitted by: Kevwe Ogbighen
 
-IOS101-Prework is an app that background changes color when button is pressed. 
+IOS101-Prework is an app whose background changes color when the button is pressed. 
 
-Time spent: 1 hours spent in total
+Time spent: 1 hour spent in total
 
 ## Required Features
 
@@ -37,12 +37,12 @@ Pinterest
 * Organization
 
 Spotify
-* Custom recommedations  
+* Custom recommendations  
 * Easy navigation
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I would like to build a note-taking app. It should have sections for school, work, and personal notes. A search engine that can find notes by title, keywords, type, and color. I would also like to have a UI that looks clean and accessible. 
 
 ## License
 
